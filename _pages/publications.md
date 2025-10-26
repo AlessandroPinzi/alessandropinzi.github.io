@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 Totally convex functions, 
-L^2-Optimal transport for laws of random measures, and solution to the Monge problem- A. Pinzi and G. Savaré, 2025, [2509.01768](https://arxiv.org/abs/2509.01768)
+L^2-Optimal transport for laws of random measures, and solution to the Monge problem - A. Pinzi and G. Savaré, 2025, [2509.01768](https://arxiv.org/abs/2509.01768)
 
 Nested superposition principle for  random measures and the geometry of the Wasserstein on Wasserstein space - A. Pinzi and G. Savaré, 2025, [2510.07523](https://arxiv.org/abs/2510.07523)
 
