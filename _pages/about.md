@@ -14,5 +14,6 @@ If you need more informations, feel free to contact me by email: [alessandro.pin
 
 ## News 
 [!] From 2 to 4 December 2025, I will be visiting Prof. Michael Röckner in Bielefeld, where I will give the seminar "Superposition principles on random measures and applications".
+
 [!] From 7 to 9 January, I will be visiting Dr. Gudmund Pammer in Graz.
 
