@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Preprints
+A study of the metric measure space of probability measures via a purely atomic superposition principle - A. Pinzi, 2025, [2511.21204](https://arxiv.org/abs/2511.21204)
+
 Totally convex functions, 
 L^2-Optimal transport for laws of random measures, and solution to the Monge problem - A. Pinzi and G. Savaré, 2025, [2509.01768](https://arxiv.org/abs/2509.01768)
 
