@@ -13,7 +13,7 @@ Currently, I am a Ph.D. student in Statistics and Computer Science at University
 If you need more informations, feel free to contact me by email: [alessandro.pinzi@phd.unibocconi.it](mailto:alessandro.pinzi@phd.unibocconi.it).
 
 ## News 
-[!] New paper on arxiv! [2511.21204](https://arxiv.org/abs/2511.21204)
+[!] (27/11) New paper on arxiv! [2511.21204](https://arxiv.org/abs/2511.21204)
 
 [!] From 7 to 9 January 2026, I will be visiting Dr. Gudmund Pammer in Graz.
 
