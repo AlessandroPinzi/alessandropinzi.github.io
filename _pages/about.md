@@ -12,10 +12,8 @@ Currently, I am a Ph.D. student in Statistics and Computer Science at University
 
 If you need more informations, feel free to contact me by email: [alessandro.pinzi@phd.unibocconi.it](mailto:alessandro.pinzi@phd.unibocconi.it).
 
-## News 
-[!] (27/11) New paper on arxiv! [2511.21204](https://arxiv.org/abs/2511.21204)
+## News
 
-[!] From 7 to 9 January 2026, I will be visiting Dr. Gudmund Pammer in Graz.
+[!] From 7 to 9 January 2026, I will be visiting Dr. Gudmund Pammer at TU Graz.
 
-[!] From 2 to 4 December 2025, I will be visiting Prof. Michael Röckner in Bielefeld, where I will give the seminar "Superposition principles on random measures and applications".
 
