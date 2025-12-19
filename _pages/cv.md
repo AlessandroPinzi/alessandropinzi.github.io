@@ -11,7 +11,7 @@ redirect_from:
 
 <html>
   <body>
-    <center><iframe src="https://alessandropinzi.github.io/files/cv.pdf" width="100%" height="700">
+    <center><iframe src="https://alessandropinzi.github.io/files/Curriculum (1).pdf" width="100%" height="700">
       <style>
         html, body { height: 100%; }
         body {overflow: hidden; margin: 0; }
