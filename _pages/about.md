@@ -14,7 +14,7 @@ If you need more informations, feel free to contact me by email: [alessandro.pin
 
 ## News
 
-[!] I will give a seminar at the 5th Italian Meeting on Probability and Mathe matical statistics (Palermo, 8-12 June 2026), in the contributed session organized by Giacomo Sodini and Mattia Martini.
+[!] I will give a seminar at the 5th Italian Meeting on Probability and Mathematical Statistics (Palermo, 8-12 June 2026), in the contributed session organized by Giacomo Sodini and Mattia Martini.
 
 [!] From 22 to 27 March 2026, I will participate to the Oberwolfach workshop "Flows on Measure Spaces and Applications in Machine Learning".
 
