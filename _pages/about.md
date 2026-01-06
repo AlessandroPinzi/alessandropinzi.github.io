@@ -16,7 +16,7 @@ If you need more informations, feel free to contact me by email: [alessandro.pin
 
 [!] I will give a seminar at the 5th Italian Meeting on Probability and Mathe matical statistics (Palermo, 8-12 June 2026), in the contributed session organized by Giacomo Sodini and Mattia Martini.
 
-[!] From 22 to 27 March 2026, I will patricipate to the Oberwolfach workshop "Flows on Measure Spaces and Applications in Machine Learning".
+[!] From 22 to 27 March 2026, I will participate to the Oberwolfach workshop "Flows on Measure Spaces and Applications in Machine Learning".
 
 [!] I will present the work "A variational principle for doubly nonlinear equations: convexification in spaces of measures and duality", joint with Giuseppe Savaré and Filippo Riva, at the 35th Italian National Conference on Calculus of Variations (Riccione, 9-13 February 2026).
 
