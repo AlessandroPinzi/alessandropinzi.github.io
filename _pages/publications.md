@@ -12,9 +12,8 @@ author_profile: true
 
 **A study of the metric measure space of probability measures via a purely atomic superposition principle** - A. Pinzi, 2025, [2511.21204](https://arxiv.org/abs/2511.21204)
 
-First order equation on random measures as superposition of weak solutions to the McKean-Vlasov equation - A. Pinzi, 2025, [2510.07542](https://arxiv.org/abs/2510.07542)
+**First order equation on random measures as superposition of weak solutions to the McKean-Vlasov equation** - A. Pinzi, 2025, [2510.07542](https://arxiv.org/abs/2510.07542)
 
-Nested superposition principle for  random measures and the geometry of the Wasserstein on Wasserstein space - A. Pinzi and G. Savaré, 2025, [2510.07523](https://arxiv.org/abs/2510.07523)
+**Nested superposition principle for  random measures and the geometry of the Wasserstein on Wasserstein space** - A. Pinzi and G. Savaré, 2025, [2510.07523](https://arxiv.org/abs/2510.07523)
 
-Totally convex functions, 
-L^2-Optimal transport for laws of random measures, and solution to the Monge problem - A. Pinzi and G. Savaré, 2025, [2509.01768](https://arxiv.org/abs/2509.01768)
+**Totally convex functions, L^2-Optimal transport for laws of random measures, and solution to the Monge problem** - A. Pinzi and G. Savaré, 2025, [2509.01768](https://arxiv.org/abs/2509.01768)
