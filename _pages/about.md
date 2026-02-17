@@ -22,20 +22,19 @@ I will give a seminar at the 5th Italian Meeting on Probability and Mathematical
 </details>
 
 <details>
+<summary><strong>[!]</strong> Several visits in Paris (April-May 2026)</summary>
+
+From 27 April to 07 May, I will be visiting Benoit Bonnet-Weill, based in Paris Saclay and Laboratoire Jacques-Luois Lions.
+
+From 18 to 22 May, I will be visintg Charles Bertucci, based in Paris Dauphine.
+</details>
+
+
+<details>
 <summary><strong>[!]</strong> Participation in Oberwolfach workshop (March 2026)</summary>
 
 From 22 to 27 March 2026, I will participate in the Oberwolfach workshop  
 “Flows on Measure Spaces and Applications in Machine Learning.”
-</details>
-
-<details>
-<summary><strong>[!]</strong> Talk at the 35th Italian Conference on Calculus of Variations (February 2026)</summary>
-
-I will present the work  
-“A variational principle for doubly nonlinear equations: convexification in spaces of measures and duality,”  
-joint with Giuseppe Savaré and Filippo Riva,  
-at the 35th Italian National Conference on Calculus of Variations  
-(Riccione, 9–13 February 2026).
 </details>
 
 
