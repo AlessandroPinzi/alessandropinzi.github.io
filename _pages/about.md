@@ -26,7 +26,7 @@ I will give a seminar at the 5th Italian Meeting on Probability and Mathematical
 
 From 27 April to 07 May, I will be visiting Benoit Bonnet-Weill, based in Paris Saclay and Laboratoire Jacques-Luois Lions.
 
-From 18 to 22 May, I will be visintg Charles Bertucci, based in Paris Dauphine.
+From 18 to 22 May, I will be visiting Charles Bertucci, based in Paris Dauphine.
 </details>
 
 
