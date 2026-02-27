@@ -17,16 +17,23 @@ If you need more informations, feel free to contact me by email: [alessandro.pin
 <details>
 <summary><strong>[!]</strong> Seminar at the 5th Italian Meeting on Probability and Mathematical Statistics (Palermo, June 2026)</summary>
 
-I will give a seminar at the 5th Italian Meeting on Probability and Mathematical Statistics
-(Palermo, 8–12 June 2026), in the contributed session organized by Giacomo Sodini and Mattia Martini.
+I will give the seminar *“The Wasserstein geometry of random measures”* at the 5th Italian Meeting on Probability and Mathematical Statistics
+(Palermo, 8–12 June 2026), in the contributed session organized by Giacomo Sodini and Mattia Martini (CS128).
 </details>
 
 <details>
 <summary><strong>[!]</strong> Several visits in Paris (April-May 2026)</summary>
 
-From 27 April to 07 May, I will be visiting Benoit Bonnet-Weill, based in Paris Saclay and Laboratoire Jacques-Luois Lions.
+From 27 April to 07 May, I will be visiting Benoit Bonnet-Weill, hosted by Paris Saclay (27-30 April) and Laboratoire Jacques-Luois Lions (04-07 May).
 
-From 18 to 22 May, I will be visiting Charles Bertucci, based in Paris Dauphine.
+From 18 to 22 May, I will be visiting Charles Bertucci at Paris Dauphine.
+</details>
+
+
+<details>
+<summary><strong>[!]</strong> Visit in Pisa </summary>
+
+From 30 March to 2 April 2026, I will be visiting Dario Trevisan at University of Pisa. 
 </details>
 
 
