@@ -37,12 +37,5 @@ From 30 March to 2 April 2026, I will be visiting Dario Trevisan at University o
 </details>
 
 
-<details>
-<summary><strong>[!]</strong> Participation in Oberwolfach workshop (March 2026)</summary>
-
-From 22 to 27 March 2026, I will participate in the Oberwolfach workshop  
-“Flows on Measure Spaces and Applications in Machine Learning.”
-</details>
-
 
 
