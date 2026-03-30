@@ -18,7 +18,7 @@ If you need more informations, feel free to contact me by email: [alessandro.pin
 <summary><strong>[!]</strong> Seminar at the 5th Italian Meeting on Probability and Mathematical Statistics (Palermo, June 2026)</summary>
 
 I will give the seminar “The Wasserstein geometry of random measures” at the 5th Italian Meeting on Probability and Mathematical Statistics
-(Palermo, 8–12 June 2026), in the contributed session organized by Giacomo Sodini and Mattia Martini (CS128).
+(Palermo, 8–12 June 2026), in the contributed session organized by Giacomo Sodini and Mattia Martini (CS128). See details <a href="https://probabilitypalermo2026.unipa.it/list-of-accepted-contributed-sessions/">here<\a>.
 </details>
 
 <details>
