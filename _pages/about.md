@@ -24,7 +24,7 @@ I will give the seminar “The Wasserstein geometry of random measures” at the
 <details>
 <summary><strong>[!]</strong> Seminar at YoungPeople4Math 2026 (12 May 2026) </summary>
 
-I will give a seminar in Brescia at the 4th edition of YoungPeople4Math. [link](https://sites.google.com/unibs.it/semmat/youngpeople4math2026?authuser=0)
+I will give a seminar in Brescia at the 4th edition of YoungPeople4Math [link](https://sites.google.com/unibs.it/semmat/youngpeople4math2026?authuser=0).
 </details>
 
 <details>
