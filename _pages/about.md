@@ -22,6 +22,12 @@ I will give the seminar “The Wasserstein geometry of random measures” at the
 </details>
 
 <details>
+<summary><strong>[!]</strong> Seminar at YoungPeople4Math 2026 (12 May 2026) </summary>
+
+I will give a seminar in Brescia at the 4th edition of YoungPeople4Math. https://sites.google.com/unibs.it/semmat/youngpeople4math2026?authuser=0
+</details>
+
+<details>
 <summary><strong>[!]</strong> Several visits in Paris (April-May 2026)</summary>
 
 From 27 April to 07 May, I will be visiting Benoit Bonnet-Weill, hosted by Paris Saclay (27-30 April) and Laboratoire Jacques-Luois Lions (04-07 May).
