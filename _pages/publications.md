@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Preprints
+**Optimal transport between laws of random probability measures and the strict Monge problem** - A. Pinzi, 2026, [2605.01816](https://arxiv.org/abs/2605.01816)
+
 **A direct method for doubly nonlinear equations via convexification in spaces of measures and duality** - A. Pinzi, F. Riva and G. Savaré, 2026, [2602.09808](https://arxiv.org/abs/2602.09808)
 
 **A study of the metric measure space of probability measures via a purely atomic superposition principle** - A. Pinzi, 2025, [2511.21204](https://arxiv.org/abs/2511.21204)
