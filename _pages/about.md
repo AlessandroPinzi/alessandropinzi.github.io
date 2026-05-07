@@ -13,6 +13,12 @@ Currently, I am a Ph.D. student in Statistics and Computer Science at University
 If you need more informations, feel free to contact me by email: [alessandro.pinzi@phd.unibocconi.it](mailto:alessandro.pinzi@phd.unibocconi.it).
 
 ## News
+<details>
+<summary><strong>[!!!]</strong> New paper on arXiv! </summary>
+
+Visit https://arxiv.org/abs/2605.01816.
+</details>
+
 
 <details>
 <summary><strong>[!]</strong> Participation at ESI summer school (Vienna, June 2026) </summary>
