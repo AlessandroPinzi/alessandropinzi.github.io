@@ -17,13 +17,13 @@ If you need more informations, feel free to contact me by email: [alessandro.pin
 <details>
 <summary><strong>[!]</strong> Visiting period at the Fields Institute (Toronto, 2026) </summary>
 
-I have been funded by the Fields Institute in Toronto, Canada, for a long visit in the Thematic Program on Optimal Transport in Natural Sciences and Statistics (http://www.fields.utoronto.ca/activities/26-27/optimal). I will be at the institute for ~3 months, from 24 August to 15 November 2026. 
+I have been funded by the Fields Institute in Toronto, Canada, for a long visit in the <a href="http://www.fields.utoronto.ca/activities/26-27/optimal">Thematic Program on Optimal Transport in Natural Sciences and Statistics</a>. I will be at the institute for ~3 months, from 24 August to 15 November 2026. 
 </details>
 
 <details>
 <summary><strong>[!]</strong> Participation at ESI summer school (Vienna, June 2026) </summary>
 
-I will participate at the ESI summer school https://www.esi.ac.at/events/e609/, organized by Elisa Davoli and Ulisse Stefanelli in the period 22-26 June 2026.
+I will participate at the <a href="https://www.esi.ac.at/events/e609/">ESI summer school</a> organized by Elisa Davoli and Ulisse Stefanelli in the period 22-26 June 2026.
 </details>
 
 
