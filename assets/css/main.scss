@@ -40,31 +40,3 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-:root {
-  --bg-color: #ffffff;
-  --text-color: #1a1a1a;
-  --link-color: #2276ac;
-}
-
-[data-theme="dark"] {
-  --bg-color: #1a1a1a;
-  --text-color: #e6e6e6;
-  --link-color: #6cb2eb;
-}
-
-body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
-  transition: background-color 0.2s ease, color 0.2s ease;
-}
-
-a {
-  color: var(--link-color);
-}
-
-.theme-toggle-btn {
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-size: 1.2rem;
-}
