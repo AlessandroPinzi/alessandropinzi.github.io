@@ -27,7 +27,7 @@ Claire Murphy (UCSB) and I will give an introductory lecture on gradient flows. 
 </details>
 
 <details>
-<summary><strong>[!]</strong> Talk at ``Wasserstein Jam'' (online, 29 September 2026) </summary>
+<summary><strong>[!]</strong> Talk at ''Wasserstein Jam'' (online, 29 September 2026) </summary>
 
 I will give a talk on the geometry of the Wasserstein space of random measures at the online event https://cvgmt.sns.it/event/1174/, organized by Averil Aussedat (Università di Pisa).
 </details>
