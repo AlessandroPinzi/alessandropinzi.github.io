@@ -27,6 +27,12 @@ Claire Murphy (UCSB) and I will give an introductory lecture on gradient flows. 
 </details>
 
 <details>
+<summary><strong>[!]</strong> Talk at Optimal Transpor Workshop, Fields Institute (Toronto, 19-23 October 2026) </summary>
+
+I will present my work, co-authored with Giuseppe Savaré, on the Brenier theorem for measures on the Wasserstein space at  <a href="[http://www.fields.utoronto.ca/activities/26-27/optimal]">Optimal Transport Workshop</a> the the Fields Institute in Toronto.
+</details>
+
+<details>
 <summary><strong>[!]</strong> Talk at ''Wasserstein Jam'' (online, 27 October 2026) </summary>
 
 I will give a talk on the geometry of the Wasserstein space of random measures at the online event https://cvgmt.sns.it/event/1174/, organized by Averil Aussedat (Università di Pisa).
