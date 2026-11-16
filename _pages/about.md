@@ -17,7 +17,7 @@ Feel free to contact me by email: [alessandro.pinzi@phd.unibocconi.it](mailto:al
 <details>
 <summary><strong>[!]</strong> Optimal transport conference in Pisa (23-27 November 2026) </summary>
 
-I will participate at the <a href="[http://www.fields.utoronto.ca/activities/26-27/optimal](https://cvgmt.sns.it/event/1122/)">OT conference in Pisa</a>.
+I will participate at the <a href="[https://cvgmt.sns.it/event/1122/]">OT conference in Pisa</a>.
 </details>
 
 <details>
